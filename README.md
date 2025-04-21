@@ -57,7 +57,7 @@ This project is an AI-powered PDF Converser assistant that leverages Google's Ge
 5. A WebSocket client can connect to this endpoint to conduct AI-driven interviews.
 
 ## File Structure
-```
+```sh
 EchoDocs-AI/
 ├── PDF_details/
 │   ├── 529 Plans- Questions and answers  Internal Revenue Service.pdf
