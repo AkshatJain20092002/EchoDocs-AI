@@ -43,6 +43,7 @@ This project is an AI-powered PDF Converser assistant that leverages Google's Ge
 |   PDF_details/
 │   ├── 529 Plans- Questions and answers  Internal Revenue Service.pdf
 │   ├── 2503.13650v1.pdf
+
    ```
    Populate these files with relevant PDF details.
 
